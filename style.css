@@ -1,0 +1,25 @@
+p {
+    color:darkblue
+}
+h3{
+    color:#0a1b99
+}
+.header{
+    background :linear-gradient(-45deg,#ee775e, #e73c7e, #23a6d5, #23d5ad);  
+    display: flex;
+    justify-content: space-evenly;
+}
+.paragraph{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+h3{
+    color: firebrick;
+}
+a:link{
+    color:orangered;
+}
+a:visited{
+    color:orangered;
+}
